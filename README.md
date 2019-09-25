@@ -11,6 +11,6 @@
 ### Example #2:
 1. Read in data values associated with U.S. states
 2. Shading examples with choropleth maps of the U.S:
-- Colormap options
-- Legend sizes and orientations
-- Legend labeling
+    - Colormap options
+    - Legend sizes and orientations
+    - Legend labeling
