@@ -2,7 +2,8 @@
 
 ## Examples of geopandas functionality
 
-Note: click on the Jupyter notebooks to view (may take a minute to load). Also viewable with https://nbviewer.jupyter.org/.
+Note: click on the Jupyter notebooks to view (may take a minute to load). 
+Also viewable with https://nbviewer.jupyter.org/.
 
 ### Example #1:
 1. Basic map of the U.S.
