@@ -16,3 +16,9 @@ Also viewable with https://nbviewer.jupyter.org/.
     - Colormap options
     - Legend sizes and orientations
     - Legend labeling
+
+### Example #3:
+1. Selecting the correct map projection for a local map
+2. Plotting Denver neighborhoods, lightrail lines and stations
+3. Making a buffer around point data
+4. Intersection of buffer areas and neighborhood polygons
