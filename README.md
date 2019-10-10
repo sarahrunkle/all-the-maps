@@ -2,7 +2,7 @@
 
 ## Examples of geopandas functionality
 
-Note: click on the Jupyter notebooks to view (may take a minute to load). 
+Click on the Jupyter notebooks to view (may take a minute to load). 
 <b>If notebooks won't load</b> use the nbviewer links below!
 
 ### Example #1: Basic Map 
