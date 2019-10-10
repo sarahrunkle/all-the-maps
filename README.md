@@ -2,8 +2,7 @@
 
 ## Examples of geopandas functionality
 
-Click on the Jupyter notebooks to view (may take a minute to load). 
-<b>If notebooks won't load</b> use the nbviewer links below!
+Click on the Jupyter notebooks to view. <b>If notebooks won't load</b> use the nbviewer links below!
 
 ### Example #1: Basic Map 
 #### [view example with nbviewer](https://nbviewer.jupyter.org/github/sarahrunkle/all-the-maps/blob/master/geopandas_example1.ipynb)
