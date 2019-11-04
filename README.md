@@ -18,9 +18,16 @@ Click on the Jupyter notebooks to view. <b>If notebooks won't load</b> use the n
     - Legend sizes and orientations
     - Legend labeling
 
-### Example #3: Map with Buffer Analysis
+### Example #3: Map with Buffer Analysis (polygon-polygon intersect)
 #### [view example with nbviewer](https://nbviewer.jupyter.org/github/sarahrunkle/all-the-maps/blob/master/geopandas_example3.ipynb)
 1. Selecting the correct map projection for a local map
 2. Plotting Denver neighborhoods, lightrail lines and stations
 3. Making a buffer around point data
 4. Intersection of buffer areas and neighborhood polygons
+
+
+### Example #4: Map with Buffer Analysis (point-polygon intersect)
+#### [view example with nbviewer](https://nbviewer.jupyter.org/github/sarahrunkle/all-the-maps/blob/master/geopandas_example4.ipynb)
+1. Plotting California counties, fire boundary data, and mobile home locations
+2. Intersection of mobile home locations & fire boundary buffers
+3. Intersection of mobile home locations & county centroid buffers
