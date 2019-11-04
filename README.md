@@ -27,7 +27,7 @@ Click on the Jupyter notebooks to view. <b>If notebooks won't load</b> use the n
 
 
 ### Example #4: Map with Buffer Analysis (point-polygon intersect)
-#### [view example with nbviewer](https://nbviewer.jupyter.org/github.com/sarahrunkle/all-the-maps/blob/master/geopandas_example4.ipynb)
+#### [view example with nbviewer](https://nbviewer.jupyter.org/github/sarahrunkle/all-the-maps/blob/master/geopandas_example4.ipynb)
 1. Plotting California counties, fire boundary data, and mobile home locations
 2. Intersection of mobile home locations & fire boundary buffers
 3. Intersection of mobile home locations & county centroid buffers
